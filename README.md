@@ -1,7 +1,5 @@
 Hi, I'm Jules 👋
 
-I build tools that make working with AI faster and less annoying — small utilities that live in the background and stay out of the way.
-
 ---
 
 **Start Here**
