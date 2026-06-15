@@ -17,3 +17,5 @@ Hi, I'm Jules 👋
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
 
 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
+
+💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — assistant de codage desktop (Tauri v2). Chats, bash, mentions de fichiers.
