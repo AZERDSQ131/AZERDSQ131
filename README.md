@@ -15,3 +15,5 @@ Hi, I'm Jules 👋
 🍫 [Tokenbar](https://github.com/AZERDSQ131/tokenbar) — tracks tokens and spend across Claude Code, Codex, and OpenCode. Reads local files, no login needed.
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
+
+📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
