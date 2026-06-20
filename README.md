@@ -20,7 +20,7 @@ Hi, I'm Jules 👋
 
 💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions - 🚧 Under construction.
 
-🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — assistant vocal agentique. Parle, execute des commandes bash via Mistral Small, ecoute la reponse en vocal (Mistral TTS).
+🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS - 🚧 Under construction.
 
 ---
 
