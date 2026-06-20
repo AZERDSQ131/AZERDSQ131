@@ -24,7 +24,7 @@ Hi, I'm Jules 👋
 
 **Contributions**
 
-| Project | Pending PRs |
+| Project | PRs |
 |---------|:----------:|
 | [Mistral Chef](https://github.com/Soch126/mistral-chef) | 1 |
 | [Mistral Vibe](https://github.com/Soch126/mistral-vibe) | 15 |
