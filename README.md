@@ -22,10 +22,10 @@ Hi, I'm Jules 👋
 
 ---
 
-## Mes Contributions
+**Contributions**
 
-| Projet | PR en attente |
-|--------|:------------:|
+| Project | Pending PRs |
+|---------|:----------:|
 | [Mistral Chef](https://github.com/Soch126/mistral-chef) | 1 |
 | [Mistral Vibe](https://github.com/Soch126/mistral-vibe) | 15 |
 | [Claude Code](https://github.com/Soch126/claude-code) | 10 |
