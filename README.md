@@ -19,3 +19,13 @@ Hi, I'm Jules 👋
 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor - 🚧 Under construction.
 
 💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions - 🚧 Under construction.
+
+---
+
+## Mes Contributions
+
+| Projet | PR en attente |
+|--------|:------------:|
+| [Mistral Chef](https://github.com/Soch126/mistral-chef) | 1 |
+| [Mistral Vibe](https://github.com/Soch126/mistral-vibe) | 15 |
+| [Claude Code](https://github.com/Soch126/claude-code) | 10 |
