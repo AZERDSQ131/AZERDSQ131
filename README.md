@@ -27,5 +27,5 @@ Hi, I'm Jules 👋
 | Project | PRs |
 |---------|:----------:|
 | [Mistral Chef](https://github.com/Soch126/mistral-chef) | 1 |
-| [Mistral Vibe](https://github.com/Soch126/mistral-vibe) | 15 |
-| [Claude Code](https://github.com/Soch126/claude-code) | 10 |
+| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 15 |
+| [Claude Code](https://github.com/anthropics/claude-code) | 10 |
