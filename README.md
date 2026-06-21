@@ -35,13 +35,13 @@ Hi, I'm Jules 👋
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
 
-📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor - 🚧 Under construction.
+🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
 
-💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions - 🚧 Under construction.
+🚧 | 💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions.
 
-🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS - 🚧 Under construction.
+🚧 | 🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS.
 
-🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
+🚧 | 🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
 
 ---
 
