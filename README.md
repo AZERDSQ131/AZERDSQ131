@@ -41,6 +41,8 @@ Hi, I'm Jules 👋
 
 🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS - 🚧 Under construction.
 
+🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
+
 ---
 
 **Contributions**
