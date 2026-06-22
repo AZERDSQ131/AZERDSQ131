@@ -31,6 +31,8 @@ Hi, I'm Jules 👋
 
 **Current Projects**
 
+🐾 [OpenClaw](https://github.com/AZERDSQ131/openclaw) — a variant of OpenClaw, configured via code to do more things.
+
 🍫 [Tokenbar](https://github.com/AZERDSQ131/tokenbar) — tracks tokens and spend across Claude Code, Codex, and OpenCode. Reads local files, no login needed.
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
