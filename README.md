@@ -27,7 +27,7 @@ Hi, I'm Jules 👋
 
 🎤 [Spill](https://azerdsq131.github.io/spill/) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral
 
-📦 [mcpm](https://azerdsq131.github.io/mcp-forge/) — universal MCP server manager — 1000+ servers, 9 AI clients, one command
+📦 [mcpm](https://azerdsq131.github.io/mcpm/) — universal MCP server manager — 1000+ servers, 9 AI clients, one command
 
 ---
 
@@ -39,7 +39,7 @@ Hi, I'm Jules 👋
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
 
-📦 [mcpm](https://github.com/AZERDSQ131/mcp-forge) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 5 runtimes.
+📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 5 runtimes.
 
 🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
 
