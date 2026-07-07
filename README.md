@@ -33,6 +33,8 @@ Hi, I'm Jules 👋
 
 **Current Projects**
 
+🤖 [Skynet](https://github.com/AZERDSQ131/skynet-skyjo) — a Skyjo-playing AI trained from scratch via self-play reinforcement learning (PPO), with a web interface to play against it or get live move advice during a physical game.
+
 🐾 [OpenClaw](https://github.com/AZERDSQ131/openclaw) — a variant of OpenClaw, configured via code to do more things.
 
 🍫 [Tokenbar](https://github.com/AZERDSQ131/tokenbar) — tracks tokens and spend across Claude Code, Codex, and OpenCode. Reads local files, no login needed.
