@@ -31,6 +31,8 @@ Hi, I'm Jules 👋
 
 🔭 [Scope](https://azerdsq131.github.io/scope/) — neofetch for your codebase: tech stack, git history, file structure and dependencies, one command, zero config
 
+🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
+
 ---
 
 **Current Projects**
@@ -47,7 +49,7 @@ Hi, I'm Jules 👋
 
 📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 5 runtimes.
 
-🚧 | 🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
+🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
 
 🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
 
