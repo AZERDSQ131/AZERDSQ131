@@ -29,6 +29,8 @@ Hi, I'm Jules 👋
 
 📦 [mcpm](https://azerdsq131.github.io/mcpm/) — universal MCP server manager — 1000+ servers, 9 AI clients, one command
 
+🔭 [Scope](https://azerdsq131.github.io/scope/) — neofetch for your codebase: tech stack, git history, file structure and dependencies, one command, zero config
+
 ---
 
 **Current Projects**
@@ -37,11 +39,15 @@ Hi, I'm Jules 👋
 
 🐾 [OpenClaw](https://github.com/AZERDSQ131/openclaw) — a variant of OpenClaw, configured via code to do more things.
 
+🔭 [Scope](https://github.com/AZERDSQ131/scope) — neofetch for your codebase: instantly see the tech stack, git history, file structure and dependencies. One command, zero configuration.
+
 🍫 [Tokenbar](https://github.com/AZERDSQ131/tokenbar) — tracks tokens and spend across Claude Code, Codex, and OpenCode. Reads local files, no login needed.
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
 
 📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 5 runtimes.
+
+🚧 | 🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
 
 🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
 
@@ -57,6 +63,13 @@ Hi, I'm Jules 👋
 
 | Project | PRs |
 |---------|:----------:|
-| [Mistral Chef](https://github.com/Soch126/mistral-chef) | 1 |
-| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 20 |
-| [Claude Code](https://github.com/anthropics/claude-code) | 17 |
+| [Patchrail](https://github.com/patchrail/patchrail) | 72 |
+| [Mistral Chef](https://github.com/Soch126/mistral-chef) | 31 |
+| [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 22 |
+| [Claude Code](https://github.com/anthropics/claude-code) | 22 |
+| [OpenSRE](https://github.com/Tracer-Cloud/opensre) | 13 |
+| [Cheer](https://github.com/joshrotenberg/cheer) | 10 |
+| [VibeRaven](https://github.com/ohad6k/VibeRaven) | 7 |
+| [Pluribus](https://github.com/caioribeiroclw-pixel/pluribus) | 6 |
+| [RuleChef](https://github.com/KRLabsOrg/rulechef) | 4 |
+| [rtk](https://github.com/rtk-ai/rtk) | 3 |
