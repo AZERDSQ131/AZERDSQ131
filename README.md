@@ -37,6 +37,8 @@ Hi, I'm Jules 👋
 
 **Current Projects**
 
+🤖 [ULTRON](https://github.com/AZERDSQ131/Ultron) — a personal AI agent built from scratch with TypeScript, LangGraph, Nemotron and PostgreSQL. The goal is to keep full ownership of the orchestration loop, memory and tools instead of hiding them behind an opaque framework. Early stage, public from day one, and being built in the open.
+
 🤖 [Skynet](https://github.com/AZERDSQ131/skynet-skyjo) — a Skyjo-playing AI trained from scratch via self-play reinforcement learning (PPO), with a web interface to play against it or get live move advice during a physical game.
 
 🐾 [OpenClaw](https://github.com/AZERDSQ131/openclaw) — a variant of OpenClaw, configured via code to do more things.
