@@ -61,6 +61,8 @@ Hi, I'm Jules 👋
 
 🚧 | 🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
 
+🚧 | 🚀 [Rocket Lowpoly](https://github.com/AZERDSQ131/rocket-lowpoly) — lowpoly 3D rocket game in the browser (Three.js). Free flight and target modes (boat/plane, either as start or target), procedural infinite world.
+
 ---
 
 **Contributions**
