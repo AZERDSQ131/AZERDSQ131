@@ -41,6 +41,8 @@ Hi, I'm Jules 👋
 
 🤖 [Skynet](https://github.com/AZERDSQ131/skynet-skyjo) — a Skyjo-playing AI trained from scratch via self-play reinforcement learning (PPO), with a web interface to play against it or get live move advice during a physical game.
 
+🧠 [G0-nano](https://github.com/AZERDSQ131/G0-nano) — a ~62M-parameter causal transformer, first model of the NANO-GPT series, trained from scratch (including the tokenizer) on a single GPU with a few-GB memory budget. The full recipe — data pipeline, memory calibration, evaluation scripts — Apache 2.0.
+
 🐾 [OpenClaw](https://github.com/AZERDSQ131/openclaw) — a variant of OpenClaw, configured via code to do more things.
 
 🔭 [Scope](https://github.com/AZERDSQ131/scope) — neofetch for your codebase: instantly see the tech stack, git history, file structure and dependencies. One command, zero configuration.
