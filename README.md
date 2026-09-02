@@ -39,6 +39,8 @@ Hi, I'm Jules 👋
 
 🧠 [G0-nano](https://github.com/AZERDSQ131/G0-nano) — a ~62M-parameter causal transformer, first model of the NANO-GPT series, trained from scratch (including the tokenizer) on a single GPU with a few-GB memory budget. The full recipe — data pipeline, memory calibration, evaluation scripts — Apache 2.0.
 
+🧪 [gdn2-vs-transformer-scaling](https://github.com/AZERDSQ131/gdn2-vs-transformer-scaling) — public reproduction kit for the GDN2 vs Transformer scaling-regime experiment. Results at ~30M (3 seeds confirmed) and ~120M (single seed, provisional), with protocol, tables and validation scripts.
+
 🤖 [ULTRON](https://github.com/AZERDSQ131/Ultron) — a personal AI agent built from scratch with TypeScript, LangGraph, Nemotron and PostgreSQL. The goal is to keep full ownership of the orchestration loop, memory and tools instead of hiding them behind an opaque framework. Early stage, public from day one, and being built in the open.
 
 🤖 [Skynet](https://github.com/AZERDSQ131/skynet-skyjo) — a Skyjo-playing AI trained from scratch via self-play reinforcement learning (PPO), with a web interface to play against it or get live move advice during a physical game.
@@ -51,7 +53,7 @@ Hi, I'm Jules 👋
 
 🎤 [Spill](https://github.com/AZERDSQ131/spill) — macOS voice dictation via Fn key, transcribed by Mistral Voxtral. Hold or double-tap to record, releases to inject text anywhere.
 
-📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 5 runtimes.
+📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 9 AI clients.
 
 🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
 
@@ -67,10 +69,10 @@ Hi, I'm Jules 👋
 
 ---
 
-**Contributions**
+**Contributions — 212 PRs (117 merged) · vérifié 2026-09-02**
 
 | Project | PRs |
-|---------|:----------:|
+|---------|:---:|
 | [Patchrail](https://github.com/patchrail/patchrail) | 72 |
 | [Mistral Chef](https://github.com/Soch126/mistral-chef) | 31 |
 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 22 |
