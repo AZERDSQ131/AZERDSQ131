@@ -55,6 +55,8 @@ Hi, I'm Jules 👋
 
 📦 [mcpm](https://github.com/AZERDSQ131/mcpm) — install and manage MCP servers across Claude, Cursor, Windsurf, Zed and more. 1000+ servers, 9 AI clients.
 
+🪞 [webclone-mcp](https://github.com/AZERDSQ131/webclone-mcp) — local MCP server that clones any web page into local files with measured visual fidelity. Four tools, flat schemas, honest gate table instead of pixel-perfect claims.
+
 🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
 
 🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
