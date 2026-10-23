@@ -30,7 +30,7 @@
 
 🤖 [Open-Hermes-Bot](https://github.com/AZERDSQ131/Open-Hermes-Bot) — a native Mac interface to the Hermes agents you already have: dark sidebar, Bloub agent avatars, cream user bubbles, floating composer. Multi-bot chat, group conversations with silence-as-a-move, tapbacks, @mentions, streaming turns. Talks to a Hermes host over the connection you already have. Electron + React + TypeScript, MIT.
 
-🚧 \| 📱 [Open-Duet](https://github.com/AZERDSQ131/Open-Duet) — open-source mobile shell for your personal agent, built to run on your Hermes Agent. React Native / Expo. Early stage, public from day one.
+📱 [Open-Duet](https://github.com/AZERDSQ131/Open-Duet) — open-source mobile shell for your personal agent, built to run on your Hermes Agent. React Native / Expo. Early stage, public from day one.
 
 🧠 [G0-nano](https://github.com/AZERDSQ131/G0-nano) — a ~62M-parameter causal transformer, first model of the NANO-GPT series, trained from scratch (including the tokenizer) on a single GPU with a few-GB memory budget. The full recipe — data pipeline, memory calibration, evaluation scripts — Apache 2.0.
 
