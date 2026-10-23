@@ -1,27 +1,18 @@
-Hi, I'm Jules 👋
+# Hi, I'm Jules 👋
 
 ---
 
 **Stack**
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" />
-  <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black" />
-  <img src="https://img.shields.io/badge/Mistral_AI-FF6F00?style=flat-square&logo=mistral&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyObjC-8A2BE2?style=flat-square&logo=apple&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
-</p>
+[![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)](https://www.rust-lang.org) [![Swift](https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=swift&logoColor=white)](https://swift.org) [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)](https://tauri.app) [![Mistral AI](https://img.shields.io/badge/Mistral_AI-FF6F00?style=flat-square&logo=mistral&logoColor=white)](https://mistral.ai) [![PyObjC](https://img.shields.io/badge/PyObjC-8A2BE2?style=flat-square&logo=apple&logoColor=white)](https://pyobjc.readthedocs.io) [![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)](https://vitejs.dev) [![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)](https://git-scm.com) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com)
 
 ---
 
 **Start Here**
+
+🤖 [Open-Hermes-Bot](https://github.com/AZERDSQ131/Open-Hermes-Bot) — native macOS interface to your Hermes agents: multi-bot chat, groups, tapbacks, @mentions, streaming turns (39 ⭐)
+
+📱 [Open-Duet](https://github.com/AZERDSQ131/Open-Duet) — open-source mobile shell for your personal agent, running on your Hermes Agent (React Native / Expo)
 
 🍫 [Tokenbar](https://azerdsq131.github.io/tokenbar/) — live AI token usage and cost in your macOS menu bar
 
@@ -36,6 +27,10 @@ Hi, I'm Jules 👋
 ---
 
 **Current Projects**
+
+🤖 [Open-Hermes-Bot](https://github.com/AZERDSQ131/Open-Hermes-Bot) — a native Mac interface to the Hermes agents you already have: dark sidebar, Bloub agent avatars, cream user bubbles, floating composer. Multi-bot chat, group conversations with silence-as-a-move, tapbacks, @mentions, streaming turns. Talks to a Hermes host over the connection you already have. Electron + React + TypeScript, MIT.
+
+🚧 \| 📱 [Open-Duet](https://github.com/AZERDSQ131/Open-Duet) — open-source mobile shell for your personal agent, built to run on your Hermes Agent. React Native / Expo. Early stage, public from day one.
 
 🧠 [G0-nano](https://github.com/AZERDSQ131/G0-nano) — a ~62M-parameter causal transformer, first model of the NANO-GPT series, trained from scratch (including the tokenizer) on a single GPU with a few-GB memory budget. The full recipe — data pipeline, memory calibration, evaluation scripts — Apache 2.0.
 
@@ -59,22 +54,22 @@ Hi, I'm Jules 👋
 
 🪄 [Magic Pointer](https://github.com/AZERDSQ131/magic-pointer) — hold Command, draw a red trail with your mouse while speaking, get an AI answer in a floating bubble that follows your cursor. A Google Magic Pointer alternative powered by Mistral.
 
-🚧 | 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
+🚧 \| 📸 [Snapcraft](https://github.com/AZERDSQ131/snapcraft) — macOS screenshot tool with global hotkey, region selection, and annotation editor.
 
-🚧 | 💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions.
+🚧 \| 💻 [Mistral Vibe](https://github.com/AZERDSQ131/mistral-vibe-app) — desktop coding assistant (Tauri v2). Chats, bash, file mentions.
 
-🚧 | 🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS.
+🚧 \| 🎙️ [VoxAgent](https://github.com/AZERDSQ131/VoxAgent) — voice-driven agentic coding assistant. Speak, Mistral Small executes bash commands, hear the response via Mistral TTS.
 
-🚧 | 🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
+🚧 \| 🏚️ [Backrooms 8-bit](https://github.com/AZERDSQ131/backrooms-game) — procedurally generated 3D Backrooms exploration in Python/Ursina, retro 8-bit look.
 
-🚧 | 🚀 [Rocket Lowpoly](https://github.com/AZERDSQ131/rocket-lowpoly) — lowpoly 3D rocket game in the browser (Three.js). Free flight and target modes (boat/plane, either as start or target), procedural infinite world.
+🚧 \| 🚀 [Rocket Lowpoly](https://github.com/AZERDSQ131/rocket-lowpoly) — lowpoly 3D rocket game in the browser (Three.js). Free flight and target modes (boat/plane, either as start or target), procedural infinite world.
 
 ---
 
 **Contributions — 212 PRs (117 merged) · vérifié 2026-09-02**
 
 | Project | PRs |
-|---------|:---:|
+| --- | --- |
 | [Patchrail](https://github.com/patchrail/patchrail) | 72 |
 | [Mistral Chef](https://github.com/Soch126/mistral-chef) | 31 |
 | [Mistral Vibe](https://github.com/mistralai/mistral-vibe) | 22 |
